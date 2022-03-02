@@ -1,0 +1,44 @@
+{
+    "apply_id": 10203,
+    "type": 1,
+    "company_id": 21932,
+    "company_name": "一四七测试",
+    "start_time": 1646200985,
+    "end_time": 1677736979,
+    "meal_code": "TC1020331907598",
+    "meal_version": "202203029226",
+    "order_no": "202203028640342235576",
+    "push_type": 1,
+    "order_price": 2980000,
+    "package_code": "FWB0000081231100",
+    "package_version": "202202111374",
+    "boss_account_uid": 120867,
+    "boss_mobile": 13225000147,
+    "boss_name": "一四七测试",
+    "funcp_json": {
+        "agency_level": "2"
+    },
+    "_t_": 1646200992,
+    "_h_": "0085edc8c5153c83da251f012f8680bf",
+    "meal_info": {
+        "meal_name": "慧拓客经典版",
+        "assistantLists": [],
+        "funcpLists": [
+            {
+                "funcp_buy_nums": 1,
+                "funcp_name": "意向数",
+                "funcp_code": "HTK-202112307290",
+                "funcp_features": "0",
+                "funcp_num": "0",
+                "funcp_spec": "",
+                "funcp_rate": "",
+                "funcp_period": "",
+                "funcp_max_num": "0",
+                "funcp_remark": "",
+                "funcp_is_remark": 0,
+                "funcp_id": 326
+            }
+        ]
+    },
+    "token": "31e5dad1003c8eb8373b2c117734cc5a"
+}
